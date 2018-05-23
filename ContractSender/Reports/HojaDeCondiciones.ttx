@@ -1,0 +1,14 @@
+; Field definition file for table: ADORecordset
+NoFamilia	long	1
+Descripcion	string	60	Cadena de muestra
+Email	string	60	Cadena de muestra
+MontoIns	string	60	Cadena de muestra
+RazonSocial	string	60	Cadena de muestra
+MantenimientoIni	string	2	Cadena de muestra
+Direccion	string	60	Cadena de muestra
+Tel	string	60	Cadena de muestra
+RFC	string	20	Cadena de muestra
+NombreEmergencia	string	60	Cadena de muestra
+TelefonosEmergencia	string	60	Cadena de muestra
+Monto	string	20	Cadena de muestra
+MontoDescuento	string	20	Cadena de muestra

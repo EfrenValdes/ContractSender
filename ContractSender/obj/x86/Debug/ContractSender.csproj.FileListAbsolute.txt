@@ -1,0 +1,73 @@
+c:\users\jjuarez\documents\visual studio 2010\Projects\ContractSender\ContractSender\bin\Debug\ContractSender.exe.config
+C:\Users\jjuarez\documents\visual studio 2010\Projects\ContractSender\ContractSender\bin\Debug\ContractSender.exe
+C:\Users\jjuarez\documents\visual studio 2010\Projects\ContractSender\ContractSender\bin\Debug\ContractSender.pdb
+C:\Users\jjuarez\documents\visual studio 2010\Projects\ContractSender\ContractSender\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\jjuarez\documents\visual studio 2010\Projects\ContractSender\ContractSender\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\jjuarez\documents\visual studio 2010\Projects\ContractSender\ContractSender\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Users\jjuarez\documents\visual studio 2010\Projects\ContractSender\ContractSender\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\jjuarez\documents\visual studio 2010\Projects\ContractSender\ContractSender\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\jjuarez\documents\visual studio 2010\Projects\ContractSender\ContractSender\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\jjuarez\documents\visual studio 2010\Projects\ContractSender\ContractSender\bin\Debug\CrystalDecisions.VSDesigner.dll
+C:\Users\jjuarez\documents\visual studio 2010\Projects\ContractSender\ContractSender\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\jjuarez\documents\visual studio 2010\Projects\ContractSender\ContractSender\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\jjuarez\documents\visual studio 2010\Projects\ContractSender\ContractSender\bin\Debug\FlashControlV71.dll
+C:\Users\jjuarez\documents\visual studio 2010\Projects\ContractSender\ContractSender\bin\Debug\log4net.dll
+C:\Users\jjuarez\documents\visual studio 2010\Projects\ContractSender\ContractSender\bin\Debug\SAPBusinessObjects.WPF.Viewer.dll
+C:\Users\jjuarez\documents\visual studio 2010\Projects\ContractSender\ContractSender\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+C:\Users\jjuarez\documents\visual studio 2010\Projects\ContractSender\ContractSender\bin\Debug\log4net.xml
+C:\Users\jjuarez\documents\visual studio 2010\Projects\ContractSender\ContractSender\obj\x86\Debug\ContractSender.exe
+C:\Users\jjuarez\documents\visual studio 2010\Projects\ContractSender\ContractSender\obj\x86\Debug\ContractSender.pdb
+C:\Users\jjuarez\documents\visual studio 2010\Projects\ContractSender\ContractSender\obj\x86\Debug\ContractSender.csprojResolveAssemblyReference.cache
+C:\Users\jjuarez\documents\visual studio 2010\Projects\ContractSender\ContractSender\bin\Debug\itextsharp.dll
+C:\Users\jjuarez\documents\visual studio 2010\Projects\ContractSender\ContractSender\bin\Debug\itextsharp.xml
+C:\Users\jjuarez\Desktop\ContractSender\ContractSender\bin\Debug\ContractSender.exe.config
+C:\Users\jjuarez\Desktop\ContractSender\ContractSender\obj\x86\Debug\ContractSender.exe
+C:\Users\jjuarez\Desktop\ContractSender\ContractSender\obj\x86\Debug\ContractSender.pdb
+C:\Users\jjuarez\Desktop\ContractSender\ContractSender\bin\Debug\ContractSender.exe
+C:\Users\jjuarez\Desktop\ContractSender\ContractSender\bin\Debug\ContractSender.pdb
+C:\Users\jjuarez\Desktop\ContractSender\ContractSender\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\jjuarez\Desktop\ContractSender\ContractSender\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\jjuarez\Desktop\ContractSender\ContractSender\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Users\jjuarez\Desktop\ContractSender\ContractSender\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\jjuarez\Desktop\ContractSender\ContractSender\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\jjuarez\Desktop\ContractSender\ContractSender\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\jjuarez\Desktop\ContractSender\ContractSender\bin\Debug\CrystalDecisions.VSDesigner.dll
+C:\Users\jjuarez\Desktop\ContractSender\ContractSender\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\jjuarez\Desktop\ContractSender\ContractSender\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\jjuarez\Desktop\ContractSender\ContractSender\bin\Debug\FlashControlV71.dll
+C:\Users\jjuarez\Desktop\ContractSender\ContractSender\bin\Debug\itextsharp.dll
+C:\Users\jjuarez\Desktop\ContractSender\ContractSender\bin\Debug\log4net.dll
+C:\Users\jjuarez\Desktop\ContractSender\ContractSender\bin\Debug\SAPBusinessObjects.WPF.Viewer.dll
+C:\Users\jjuarez\Desktop\ContractSender\ContractSender\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+C:\Users\jjuarez\Desktop\ContractSender\ContractSender\bin\Debug\itextsharp.xml
+C:\Users\jjuarez\Desktop\ContractSender\ContractSender\bin\Debug\log4net.xml
+C:\Users\jjuarez\Desktop\ContractSender\ContractSender\obj\x86\Debug\ContractSender.csprojResolveAssemblyReference.cache
+C:\Users\nexx\Documents\proyectos\Visual Studio 2010\Projects\ContractSender\ContractSender\bin\Debug\ContractSender.exe.config
+C:\Users\nexx\Documents\proyectos\Visual Studio 2010\Projects\ContractSender\ContractSender\obj\x86\Debug\ContractSender.exe
+C:\Users\nexx\Documents\proyectos\Visual Studio 2010\Projects\ContractSender\ContractSender\obj\x86\Debug\ContractSender.pdb
+C:\Users\nexx\Documents\proyectos\Visual Studio 2010\Projects\ContractSender\ContractSender\bin\Debug\ContractSender.exe
+C:\Users\nexx\Documents\proyectos\Visual Studio 2010\Projects\ContractSender\ContractSender\bin\Debug\ContractSender.pdb
+C:\Users\nexx\Documents\proyectos\Visual Studio 2010\Projects\ContractSender\ContractSender\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\nexx\Documents\proyectos\Visual Studio 2010\Projects\ContractSender\ContractSender\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\nexx\Documents\proyectos\Visual Studio 2010\Projects\ContractSender\ContractSender\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Users\nexx\Documents\proyectos\Visual Studio 2010\Projects\ContractSender\ContractSender\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\nexx\Documents\proyectos\Visual Studio 2010\Projects\ContractSender\ContractSender\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\nexx\Documents\proyectos\Visual Studio 2010\Projects\ContractSender\ContractSender\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\nexx\Documents\proyectos\Visual Studio 2010\Projects\ContractSender\ContractSender\bin\Debug\CrystalDecisions.VSDesigner.dll
+C:\Users\nexx\Documents\proyectos\Visual Studio 2010\Projects\ContractSender\ContractSender\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\nexx\Documents\proyectos\Visual Studio 2010\Projects\ContractSender\ContractSender\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\nexx\Documents\proyectos\Visual Studio 2010\Projects\ContractSender\ContractSender\bin\Debug\FlashControlV71.dll
+C:\Users\nexx\Documents\proyectos\Visual Studio 2010\Projects\ContractSender\ContractSender\bin\Debug\itextsharp.dll
+C:\Users\nexx\Documents\proyectos\Visual Studio 2010\Projects\ContractSender\ContractSender\bin\Debug\log4net.dll
+C:\Users\nexx\Documents\proyectos\Visual Studio 2010\Projects\ContractSender\ContractSender\bin\Debug\SAPBusinessObjects.WPF.Viewer.dll
+C:\Users\nexx\Documents\proyectos\Visual Studio 2010\Projects\ContractSender\ContractSender\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+C:\Users\nexx\Documents\proyectos\Visual Studio 2010\Projects\ContractSender\ContractSender\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\nexx\Documents\proyectos\Visual Studio 2010\Projects\ContractSender\ContractSender\bin\Debug\EnvDTE.dll
+C:\Users\nexx\Documents\proyectos\Visual Studio 2010\Projects\ContractSender\ContractSender\bin\Debug\VSLangProj.dll
+C:\Users\nexx\Documents\proyectos\Visual Studio 2010\Projects\ContractSender\ContractSender\bin\Debug\VsWebSite.Interop.dll
+C:\Users\nexx\Documents\proyectos\Visual Studio 2010\Projects\ContractSender\ContractSender\bin\Debug\EnvDTE80.dll
+C:\Users\nexx\Documents\proyectos\Visual Studio 2010\Projects\ContractSender\ContractSender\bin\Debug\stdole.dll
+C:\Users\nexx\Documents\proyectos\Visual Studio 2010\Projects\ContractSender\ContractSender\bin\Debug\itextsharp.xml
+C:\Users\nexx\Documents\proyectos\Visual Studio 2010\Projects\ContractSender\ContractSender\bin\Debug\log4net.xml
+C:\Users\nexx\Documents\proyectos\Visual Studio 2010\Projects\ContractSender\ContractSender\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\nexx\Documents\proyectos\Visual Studio 2010\Projects\ContractSender\ContractSender\obj\x86\Debug\ContractSender.csprojResolveAssemblyReference.cache
